@@ -5,4 +5,5 @@ Maulana's Frontend Plan:
 - JAVASCRIPT
   *LARAVEL
   *CODEIGNITER
-- TAILWIND
+- JAVASCRIPT DOM 
+- SASS
