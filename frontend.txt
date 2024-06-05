@@ -7,5 +7,6 @@ Maulana's Frontend Plan:
 - JAVASCRIPT
   *LARAVEL
   *CODEIGNITER
-- HTML 5
+- JAVASCRIPT LANJUTAN
+
 - SASS
