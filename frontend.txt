@@ -1,0 +1,4 @@
+Maulana's Frontend Plan:
+- Git & Github
+- CSS UNIT
+- CSS FLEXBOX
