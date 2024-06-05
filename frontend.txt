@@ -2,6 +2,8 @@ Maulana's Frontend Plan:
 - Git & Github
 - CSS UNIT
 - CSS FLEXBOX
+- CSS GRID
+- FRAMEWORK MATERIALIZE
 - JAVASCRIPT
   *LARAVEL
   *CODEIGNITER
